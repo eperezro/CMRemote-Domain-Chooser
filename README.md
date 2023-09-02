@@ -4,7 +4,7 @@ Este proyecto consiste en un script batch que permite elegir un dominio entre un
 
 ## Objetivo
 
-El objetivo de este proyecto es facilitar el acceso remoto si trabajas en tu dia a dia con muchos dominios usando el programa CmRcViewer, que es un cliente de control remoto basado en el protocolo RDP.
+El objetivo de este proyecto es facilitar el acceso remoto a equipos si trabajas en tu dia a dia con muchos dominios usando el programa CmRcViewer, que es un cliente de control remoto basado en el protocolo RDP.
 
 ## Requisitos
 
@@ -12,7 +12,7 @@ Para usar este script, necesitas tener instalado el programa CmRcViewer en tu or
 
 ## Uso
 
-Para usar este script, solo tienes que ejecutarlo haciendo doble clic sobre él o desde la línea de comandos. El script te mostrará una lista de dominios disponibles y te pedirá que introduzcas el número del dominio al que quieras conectarte. Una vez hecho esto, el script abrirá el programa CmRcViewer y se conectará al dominio elegido.
+Para usar este script, solo tienes que ejecutarlo haciendo doble clic sobre él o desde la línea de comandos. El script te mostrará una lista de dominios disponibles y te pedirá que introduzcas el número del dominio al que quieras conectarte. Una vez hecho esto, el script abrirá el programa CmRcViewer y se conectará al dominio elegido usando las credenciales indicadas anteriormente.
 
 ## Licencia
 
