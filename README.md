@@ -4,7 +4,7 @@ Este proyecto consiste en un script batch que permite elegir un dominio entre un
 
 ## Objetivo
 
-El objetivo de este proyecto es facilitar el acceso remoto a diferentes dominios usando el programa CmRcViewer, que es un cliente de control remoto basado en el protocolo RDP.
+El objetivo de este proyecto es facilitar el acceso remoto si trabajas en tu dia a dia con muchos dominios usando el programa CmRcViewer, que es un cliente de control remoto basado en el protocolo RDP.
 
 ## Requisitos
 
