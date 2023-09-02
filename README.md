@@ -8,7 +8,7 @@ El objetivo de este proyecto es facilitar el acceso remoto a equipos si trabajas
 
 ## Requisitos
 
-Para usar este script, necesitas tener instalado el programa CmRcViewer en tu ordenador. Puedes descargarlo desde este repositorio de github creado por SweJorgen : https://github.com/SweJorgen/CMRemote-Tools . Necesitaras los datos de acceso a los dominios que quieras usar.
+Para usar este script, necesitas tener instalado el programa CmRcViewer en tu ordenador. Puedes descargarlo desde este repositorio de github creado por SweJorgen : https://github.com/SweJorgen/CMRemote-Tools . Necesitaras las credenciales los dominios que quieras usar.
 
 ## Uso
 
