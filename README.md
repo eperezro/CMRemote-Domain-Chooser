@@ -22,4 +22,4 @@ Este proyecto está bajo la licencia MIT. Puedes ver los detalles de la licencia
 
 ## Contacto
 
-Si tienes alguna duda, sugerencia o problema con este proyecto, puedes contactarme a través de mi correo electrónico: usuario@ejemplo.com
+Si tienes alguna duda, sugerencia o problema con este proyecto, puedes contactarme a través de mi correo electrónico: elperezod@gmail.com
