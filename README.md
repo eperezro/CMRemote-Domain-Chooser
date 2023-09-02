@@ -1,6 +1,6 @@
 # CMRemote-Domain-Chooser
 
-Este proyecto consiste en un script batch que permite elegir un dominio entre una lista de dominios que te muestra y que, una vez elegido, se conecta a este con el programa CmRcViewer.
+Este proyecto consiste en un script batch que permite elegir un dominio entre una lista de dominios y conectarte a este con CmRcViewer.
 
 ## Objetivo
 
